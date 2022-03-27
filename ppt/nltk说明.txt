@@ -1,0 +1,14 @@
+1.修改
+C:\Windows\System32\drivers\etc\hosts文件
+在最后加入
+185.199.111.133 raw.githubusercontent.com
+185.199.111.133是ip地址需要查看https://www.ipaddress.com/（IP地址查看网站）
+输入代码raw.githubusercontent.com
+
+2.不要连接VPN！！！
+会导致连接服务器失败！！！
+
+3.修改系统文件从window powershell管理员加入修改！！！
+cd命令切换至目录
+
+参考链接：https://mp.weixin.qq.com/s?__biz=MzI1NzczMDIwNw==&mid=2247483777&idx=1&sn=cd985f3f7fe0472df9560de94753d86d&chksm=ea13b271dd643b67a591485d249ca9f64aaa380db3ff16c462c0d2def5ccce114e3c938b955e&token=445308227&lang=zh_CN#rd

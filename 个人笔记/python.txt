@@ -1,0 +1,2 @@
+np.outer的用法：先将高维数组flatten变为一维数组1*n 和1*m，最后内积成n*m矩阵
+np.outer(N,M)

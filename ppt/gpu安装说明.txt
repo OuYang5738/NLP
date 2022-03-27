@@ -1,0 +1,4 @@
+gpu安装需要用到conda
+
+
+https://zhuanlan.zhihu.com/p/106944429
